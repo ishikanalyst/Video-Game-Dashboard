@@ -13,32 +13,50 @@ DAX (Data Analysis Expressions) → For calculating KPIs like total sales, ranki
 These tools help convert raw data into meaningful and interactive business insights.
 
 Business Problem:-
+
 Gaming companies and stakeholders often struggle to:
+
 Identify which genres are most profitable
+
 Understand which publishers dominate the market
+
 Track sales growth over time
+
 Recognize top-performing games
 
 
  Business Impact:-
+ 
 Helps companies focus on high-performing genres (like Sports)
+
 Identifies market leaders (Activision)
+
 Supports strategy by showing growth trends over years
+
 Helps in understanding which type of games generate maximum revenue
+
 Improves decision-making using data instead of assumptions
 
 Key Insights:-
+
 Sports genre has the highest sales → High customer demand
+
 Activision is the leading publisher → Strong market presence
+
 A few top games contribute majorly to total sales
 
 Walkthough of Key Visuals:-
 
 KPI Cards → Show overall performance (Sales, Publisher, Genre, Total Games)
+
 Bar Chart (Top Genres) → Identifies most profitable genres
+
 Donut Chart (Publisher Share) → Shows market distribution among publishers
+
 Line Chart (Year-wise Trend) → Displays sales growth over time
+
 Bar Chart (Top Games) → Highlights best-selling games
+
 Filters → Allow customized analysis
 
 “I built this dashboard to transform raw gaming data into actionable insights, helping identify top-performing genres, publishers, and sales trends for better business decision-making.”
